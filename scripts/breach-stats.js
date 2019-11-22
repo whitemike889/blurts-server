@@ -48,10 +48,10 @@ function dhm(t){
 
   for (const breach of breaches) {
     const breachDate = new Date(breach.BreachDate);
-    if (breachDate < beginningDateLimit) {
+    const addedDate = new Date(breach.AddedDate);
+    if (addedDate < beginningDateLimit) {
       continue;
     }
-    const addedDate = new Date(breach.AddedDate);
     const parsedDomainTLD = psl.parse(breach.Domain).tld;
     if (breachTLDs.hasOwnProperty(parsedDomainTLD)) {
       breachTLDs[parsedDomainTLD]++;
