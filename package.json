@@ -31,7 +31,7 @@
     "knex-paginate": "^1.1.0",
     "lodash": "^4.17.13",
     "mozlog": "^2.2.0",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^3.0.0",
     "pg": "^7.4.3",
     "sns-validator": "^0.3.4",
