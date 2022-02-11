@@ -18,7 +18,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.16.2",
     "express-bearer-token": "^2.2.0",
-    "express-handlebars": "^3.0.0",
+    "express-handlebars": "^5.3.1",
     "fluent": "^0.10.0",
     "fluent-langneg": "^0.1.0",
     "full-icu": "^1.2.1",
