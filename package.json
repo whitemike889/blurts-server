@@ -23,7 +23,7 @@
     "fluent-langneg": "^0.1.0",
     "full-icu": "^1.2.1",
     "git-rev-sync": "^1.12.0",
-    "got": "^8.3.1",
+    "got": "^11.8.5",
     "helmet": "^3.21.1",
     "intl-pluralrules": "^0.2.1",
     "isemail": "^3.1.3",
