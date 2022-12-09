@@ -16,7 +16,7 @@
     "cpr": "^3.0.1",
     "csurf": "^1.9.0",
     "dotenv": "^5.0.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-bearer-token": "^2.2.0",
     "express-handlebars": "^3.0.0",
     "fluent": "^0.10.0",
